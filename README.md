@@ -1,6 +1,6 @@
-## 概率论与数理统计笔记
+# 概率论与数理统计笔记
 
-#### 前言：
+### 前言：
 
 本项目是复习《概率论与数理统计》的的笔记。
 
@@ -8,7 +8,7 @@
 
 学习的视频为：[B站梨米特爱讲课《概率论与数理统计》](https://www.bilibili.com/video/BV1D741147G5?spm_id_from=333.788.videopod.episodes&vd_source=6eb606dcf1ba50cf37cbe4a348667b7e)
 
-#### 说明：
+### 说明：
 
 在学习强化学习的过程中，我感觉到自己的概率论基础还不够扎实，于是重新学习了概率论与数理统计课程，并做了相关的课程笔记，且完成了课堂习题以及部分课后习题。
 
@@ -16,9 +16,9 @@
 
 此外，课程的 md 笔记是使用 Typora 完成的，由于 github 上的 markdown 渲染器对部分数学公式的渲染有点问题，建议查看 pdf 版本的笔记。
 
-#### 笔记结构：
+### 笔记结构：
 
-##### [Chap1.随机事件与概率](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap1.随机事件与概率.pdf)
+#### [Chap1.随机事件与概率](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap1.随机事件与概率.pdf)
 
 -- 1.前言
 
@@ -44,7 +44,7 @@
 
 -- 12.独立性
 
-##### [chap2.一维随机变量及分布](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap2.一维随机变量及分布.pdf)
+#### [Chap2.一维随机变量及分布](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap2.一维随机变量及分布.pdf)
 
 -- 13.随机变量
 
@@ -70,7 +70,7 @@
 
 -- 24.随机变量的函数的分布
 
-##### [Chap3.多维随机变量及其分布](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap3.多维随机变量及其分布.pdf)
+#### [Chap3.多维随机变量及其分布](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap3.多维随机变量及其分布.pdf)
 
 -- 25.二维随机变量的定义
 
@@ -94,7 +94,7 @@
 
 -- 35.最大值、最小值的分布
 
-##### [Chap4.随机变量的数字特征](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap4.随机变量的数字特征.pdf)
+#### [Chap4.随机变量的数字特征](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap4.随机变量的数字特征.pdf)
 
 -- 36.数学期望的定义
 
@@ -112,13 +112,13 @@
 
 -- 43.矩 协方差矩阵
 
-##### [Chap5.大数定律及中心极限定理](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap5.大数定律与中心极限定理.pdf)
+#### [Chap5.大数定律及中心极限定理](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap5.大数定律与中心极限定理.pdf)
 
 -- 44.大数定律
 
 -- 45.中心极限定理
 
-##### [Chap6.样本及抽样分布](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap6.样本以及抽样分布.pdf)
+#### [Chap6.样本及抽样分布](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap6.样本以及抽样分布.pdf)
 
 -- 46.随机样本
 
@@ -134,7 +134,7 @@
 
 -- 52.正态总体的样本均值与样本方差的分布
 
-##### [Chap7.参数估计](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap7.参数估计.pdf)
+#### [Chap7.参数估计](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap7.参数估计.pdf)
 
 -- 53.点估计与矩估计
 
@@ -148,7 +148,7 @@
 
 -- 58.单侧置信区间
 
-##### [Chap8.假设检验](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap8.假设检验.pdf)
+#### [Chap8.假设检验](https://github.com/niejnan/Probability-Theory-Notes/blob/main/Chap8.假设检验.pdf)
 
 -- 59.假设检验
 
